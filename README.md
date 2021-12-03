@@ -22,6 +22,7 @@ Required python libraries
 ### Cite Us
 ---
 If you like the work, please cite our EuroS&P 2021 paper:
+
 @inproceedings{rajput2021remote,
   title={Remote Non-Intrusive Malware Detection for PLCs based on Chain of Trust Rooted in Hardware},
   author={Rajput, Prashant Hari Narayan and Sarkar, Esha and Tychalas, Dimitrios and Maniatakos, Michail},
