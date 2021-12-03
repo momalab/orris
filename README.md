@@ -2,7 +2,7 @@
 
 ### Overview
 ---
-ORRIS is an out-of-the-device 
+ORRIS is an out-of-the-device non-intrusive malware detector for Linux-based PLCs.
 
 ### Requirements
 ---
